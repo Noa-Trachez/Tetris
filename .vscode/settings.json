@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "my.h": "c",
+        "tetris.h": "c",
+        "string.h": "c",
+        "strmodif.h": "c",
+        "strcheck.h": "c",
+        "globals.h": "c"
+    }
+}
